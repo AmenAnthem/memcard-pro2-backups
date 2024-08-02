@@ -89,4 +89,8 @@ It is recommended to use [MemcardRex](https://github.com/ShendoXT/memcardrex) to
 | Street Fighter Alpha 3 | NTSC-J | [MemoryCard1-7](PS1/MemoryCard1/MemoryCard1-7.mcd) |
 | The Tetris | NTSC-J | [MemoryCard1-7](PS1/MemoryCard1/MemoryCard1-7.mcd) |
 | Dragon Valor | NTSC-U/C | [MemoryCard1-7](PS1/MemoryCard1/MemoryCard1-7.mcd) |
+| Gradius Gaiden | NTSC-J | [MemoryCard1-7](PS1/MemoryCard1/MemoryCard1-7.mcd) |
+| Apocalypse | NTSC-U/C | [MemoryCard1-7](PS1/MemoryCard1/MemoryCard1-7.mcd) |
+| Vanark | NTSC-J | [MemoryCard1-7](PS1/MemoryCard1/MemoryCard1-7.mcd) |
+| G-Darius | NTSC-J | [MemoryCard1-7](PS1/MemoryCard1/MemoryCard1-7.mcd) |
 | Hexen: Beyond Heretic | NTSC-U/C | [MemoryCard1-8](PS1/MemoryCard1/MemoryCard1-8.mcd) |
