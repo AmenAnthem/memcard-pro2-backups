@@ -83,4 +83,10 @@ It is recommended to use [MemcardRex](https://github.com/ShendoXT/memcardrex) to
 | King's Field | NTSC-U/C | [MemoryCard1-7](PS1/MemoryCard1/MemoryCard1-7.mcd) |
 | Spyro: Year of the Dragon | NTSC-U/C | [MemoryCard1-7](PS1/MemoryCard1/MemoryCard1-7.mcd) |
 | Nightmare Creatures II | NTSC-U/C | [MemoryCard1-7](PS1/MemoryCard1/MemoryCard1-7.mcd) |
+| Lemmings & Oh No! More Lemmings | NTSC-U/C | [MemoryCard1-7](PS1/MemoryCard1/MemoryCard1-7.mcd) |
+| Power Rangers: Lightspeed Rescue | NTSC-U/C | [MemoryCard1-7](PS1/MemoryCard1/MemoryCard1-7.mcd) |
+| RayCrisis | NTSC-J | [MemoryCard1-7](PS1/MemoryCard1/MemoryCard1-7.mcd) |
+| Street Fighter Alpha 3 | NTSC-J | [MemoryCard1-7](PS1/MemoryCard1/MemoryCard1-7.mcd) |
+| The Tetris | NTSC-J | [MemoryCard1-7](PS1/MemoryCard1/MemoryCard1-7.mcd) |
+| Dragon Valor | NTSC-U/C | [MemoryCard1-7](PS1/MemoryCard1/MemoryCard1-7.mcd) |
 | Hexen: Beyond Heretic | NTSC-U/C | [MemoryCard1-8](PS1/MemoryCard1/MemoryCard1-8.mcd) |
