@@ -93,4 +93,5 @@ It is recommended to use [MemcardRex](https://github.com/ShendoXT/memcardrex) to
 | Apocalypse | NTSC-U/C | [MemoryCard1-7](PS1/MemoryCard1/MemoryCard1-7.mcd) |
 | Vanark | NTSC-J | [MemoryCard1-7](PS1/MemoryCard1/MemoryCard1-7.mcd) |
 | G-Darius | NTSC-J | [MemoryCard1-7](PS1/MemoryCard1/MemoryCard1-7.mcd) |
-| Hexen: Beyond Heretic | NTSC-U/C | [MemoryCard1-8](PS1/MemoryCard1/MemoryCard1-8.mcd) |
+| Philosoma | NTSC-J | [MemoryCard1-7](PS1/MemoryCard1/MemoryCard1-7.mcd) |
+| Hexen: Beyond Heretic | NTSC-U/C | [MemoryCard2-1](PS1/MemoryCard1/MemoryCard2-1.mcd) |
